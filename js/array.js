@@ -105,20 +105,20 @@
 
 // Problem 162
 
-let barray = [5, 10, 3, 7, 10, 12, 4];
-// let barray = [10, 12, 5, 11, 13, 15];
-//  let barray = [2, 4, 12];
-let result = 0;
-let count = 0;
-let k = 0;
-let l = 4;
+// let barray = [5, 10, 3, 7, 10, 12, 4];
+// // let barray = [10, 12, 5, 11, 13, 15];
+// //  let barray = [2, 4, 12];
+// let result = 0;
+// let count = 0;
+// let k = 0;
+// let l = 4;
 
-for(let i = k+1; i < l; i++){
-  result += barray[i];
-  count++;
-}
+// for(let i = k+1; i < l; i++){
+//   result += barray[i];
+//   count++;
+// }
 
-console.log(result / count);
+// console.log(result / count);
 
 
 // Problem 163
