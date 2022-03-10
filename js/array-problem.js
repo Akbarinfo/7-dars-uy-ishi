@@ -326,7 +326,7 @@
 // let carray = [];
 // carray = aarray;
 // aarray = barray;
-// barray = c;
+// barray = carray;
 // console.log(aarray);
 // console.log(barray);
 
